@@ -42,7 +42,7 @@ La función de predicción te pide que insertes un equipo Local y uno Visitante 
 
 
 > De la Torre Criado, Javier. (2025). *Análisis Descriptivo y Predictivo de Resultados y Eventos de la Premier League Inglesa (1993–2025)*. UNED 
-> Disponible en: [(https://github.com/javtorre7/Premier-League-Analysis-CODE-)]
+> Disponible en: [(https://github.com/javtorre7/Premier-League-Analysis-CODE-]
 
 ---
 
